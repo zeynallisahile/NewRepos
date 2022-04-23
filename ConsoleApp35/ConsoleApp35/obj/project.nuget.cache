@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GbzK9QXzFDGUg0+Ogm7N5cVAGrADCCnYB/FncEr7YGZ3JQbKO3A27x75bi3r3BubyAJUsQ1reCjGgiUTH9Y8Rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\source\\repos\\ConsoleApp35\\ConsoleApp35\\ConsoleApp35.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
